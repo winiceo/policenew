@@ -1,0 +1,1 @@
+apidoc -i app/route/ -o public/doc/

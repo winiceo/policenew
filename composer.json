@@ -1,0 +1,14 @@
+{
+  "require": {
+    "slim/slim": "~3.0-dev",
+    "slim/twig-view": "^1.1",
+    "monolog/monolog": "^1.14",
+    "flynsarmy/slim-monolog": "^1.0",
+    "rmccue/requests": ">=1.0",
+    "bshaffer/oauth2-server-php": "~1.7",
+    "firebase/php-jwt": "^2.2",
+    "terwey/slim-swagger": "^0.0.3",
+    "nesbot/carbon": "^1.20",
+    "codeguy/upload": "^1.3"
+  }
+}
